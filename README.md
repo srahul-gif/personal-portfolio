@@ -21,5 +21,5 @@ A personal portfolio website created as part of my Web Development Project at Bo
 3. Use Live Server for a better development experience.
 
 ## Author
-**Your Name**  
+Rahul Sahu
 Computer Science Student | AI & ML
